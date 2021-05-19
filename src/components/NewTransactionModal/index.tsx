@@ -15,6 +15,8 @@ export function NewTransactionModal({
   isOpen,
   onRequestClose,
 }: NewTransactionModalProps) {
+
+  
   return (
     <Modal
       isOpen={isOpen}
